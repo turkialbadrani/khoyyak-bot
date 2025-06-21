@@ -1,0 +1,5 @@
+run = "python3 telegram_bot_voice_final.py"
+modules = ["python-3.11"]
+
+[nix]
+packages = ["ffmpeg-full"]

@@ -1,0 +1,6 @@
+python-dotenv
+pyTelegramBotAPI
+openai>=1.0.0
+pydub
+gTTS
+requests
